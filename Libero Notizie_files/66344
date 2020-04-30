@@ -1,0 +1,22 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 88346,
+    "timestamp": 1588255641,
+    "categories": [
+    {
+     "categoryID": 515752,
+     "timestamp": 1586866929
+    },
+    {
+     "categoryID": 515837,
+     "timestamp": 1586866929
+    },
+    {
+     "categoryID": 515838,
+     "timestamp": 1586866929
+    }
+    ]
+  }
+ ]
+};
